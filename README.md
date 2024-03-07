@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! This repository showcases my projects, skills, and experiences.
+Welcome to my portfolio! This repository showcases my skills, and other info.
 
 ## Table of Contents
 
@@ -11,36 +11,20 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 ## About Me
 
-I am a passionate [software developer/web designer/data scientist/etc.] with [number] years of experience in the field. I love to [mention something personal or unique about yourself].
+Pursuing my graduation in Computer Science and also procaticig web development because I love to design and code my thoughts.
 
-## Projects
-
-### Project 1: [Project Name]
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used (e.g., HTML, CSS, JavaScript, React, Python, etc.).
-- GitHub Repository: [Link to GitHub repository]
-- Live Demo: [Link to live demo if applicable]
-
-### Project 2: [Project Name]
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used (e.g., HTML, CSS, JavaScript, React, Python, etc.).
-- GitHub Repository: [Link to GitHub repository]
-- Live Demo: [Link to live demo if applicable]
-
-[Add more projects as needed]
 
 ## Skills
 
-- Programming Languages: List of programming languages you're proficient in.
-- Web Technologies: List of web technologies you're familiar with (e.g., HTML, CSS, JavaScript, etc.).
-- Frameworks/Libraries: List of frameworks or libraries you have experience with (e.g., React, Bootstrap, etc.).
-- Other Skills: Any other relevant skills (e.g., data analysis, machine learning, etc.).
+- Languages: HTML, CSS, JavaScript, C+
+- Web Technologies: AI, FrameWork, Figma Desiging etc.
+- Other Skills: Data analysis, machine learning, Generative AI, UI/UX desiging etc.
 
 ## Contact
 
-- Email: [Your email address]
-- LinkedIn: [Your LinkedIn profile URL]
-- Portfolio Website: [Link to your portfolio website if you have one]
-- GitHub: [Link to your GitHub profile]
+- Email: afrozkhan.workemail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/afroz-khan-profile/
+- Portfolio Website: NA
+- GitHub: https://github.com/devekhan/Afroz-Khan
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm open to collaboration and new opportunities!
